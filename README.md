@@ -3,7 +3,7 @@
 Links:
 
 https://github.com/projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei-templates/tree/main​
+https://github.com/projectdiscovery/nuclei-templates
 
 
 https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2023/CVE-2023-27524.yaml​
