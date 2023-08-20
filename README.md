@@ -60,7 +60,7 @@ https://github.com/projectdiscovery/subfinder​
   ### Guide to subfinder
   https://blog.projectdiscovery.io/do-you-really-know-subfinder-an-in-depth-guide-to-all-features-of-subfinder-beginner-to-advanced/
 
-## Script
+## Externals scan script
 https://github.com/aleksey-vi/externals_scan_script
 
 
