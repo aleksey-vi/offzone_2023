@@ -63,6 +63,20 @@ https://github.com/projectdiscovery/subfinder​
 ## Externals scan script
 https://github.com/aleksey-vi/externals-scan-script
 
+### Utilities used
+
+https://github.com/xm1k3/cent
+https://github.com/nmap/nmap
+https://github.com/projectdiscovery/nuclei
+https://github.com/projectdiscovery/notify
+https://github.com/projectdiscovery/dnsx
+https://github.com/projectdiscovery/httpx
+https://github.com/projectdiscovery/katana
+https://github.com/projectdiscovery/subfinder
+https://github.com/tomnomnom/fff
+https://github.com/tomnomnom/assetfinder
+https://github.com/tomnomnom/waybackurls
+
 
 
 
