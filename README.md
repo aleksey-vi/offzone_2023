@@ -16,22 +16,28 @@ https://github.com/projectdiscovery/nuclei
   ### Run Nuclei & other ProjectDiscovery tools in Docker
   https://blog.projectdiscovery.io/how-to-run-nuclei-other-projectdiscovery-tools-in-docker/?ref=projectdiscovery-io-blog-newsletter
 
+  ### Cloud platform
+  https://templates.nuclei.sh/templates​
+
+  ### Nuclei v3
+  https://blog.projectdiscovery.io/nuclei-v3-featurefusion/
+  
 
 ## CVE-2023-42793
 Template: https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2023/CVE-2023-42793.yaml
 
-### Example Censys
-https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=%28services.software.product%3A+%22Teamcity%22+and+not+services.http.response.body%3A+2023.05.4%29+and+location.country%3D%60Russia%60
+  ### Example Censys
+  https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=%28services.software.product%3A+%22Teamcity%22+and+not+services.http.response.body%3A+2023.05.4%29+and+location.country%3D%60Russia%60
 
-### Research
-https://www.sonarsource.com/blog/teamcity-vulnerability/
+  ### Research
+  https://www.sonarsource.com/blog/teamcity-vulnerability/
 
 
 ## CVE-2023-27524
 Template: https://github.com/projectdiscovery/nuclei-templates/blob/main/http/cves/2023/CVE-2023-27524.yaml​
 
-### Example FOFA
-https://en.fofa.info/result?qbase64=YXBwPSJBUEFDSEUtU3VwZXJzZXQiICYmIGNvdW50cnk9IlJVIg%3D%3D
+  ### Example FOFA
+  https://en.fofa.info/result?qbase64=YXBwPSJBUEFDSEUtU3VwZXJzZXQiICYmIGNvdW50cnk9IlJVIg%3D%3D
 
 
 ## Burp extantions
@@ -39,30 +45,37 @@ https://github.com/portswigger/nuclei-template-generator​
 https://github.com/portswigger/nuclei-burp-integration​
 
 
-## Bitbucket CI/CD
-https://blog.projectdiscovery.io/implementing-nuclei-into-your-bitbucket-ci-cd-pipeline-for-scanning-live-web-applications/
+## Integration CI/CD
 
+  ## Github Action
+  https://github.com/projectdiscovery/nuclei-action
 
-## Kubernetes
-https://infosecwriteups.com/securing-your-infra-exploring-nucleis-defense-arsenal-783c193a84c1
+  ## Gitlab
+  https://blog.projectdiscovery.io/implementing-nuclei-into-your-gitlab-ci-cd-pipeline-for-scanning-live-web-applications/
+
+  ## Bitbucket CI/CD
+  https://blog.projectdiscovery.io/implementing-nuclei-into-your-bitbucket-ci-cd-pipeline-for-scanning-live-web-applications/
+
+  ## Kubernetes
+  https://infosecwriteups.com/securing-your-infra-exploring-nucleis-defense-arsenal-783c193a84c1
 
 
 ## ProjectDuscovery products
 
-### Httpx
-https://github.com/projectdiscovery/httpx​ 
+  ### Httpx
+  https://github.com/projectdiscovery/httpx​ 
 
-### Katana
-https://github.com/projectdiscovery/katana​
+  ### Katana
+  https://github.com/projectdiscovery/katana​
 
-  #### A Deep Dive on Katana
-  https://blog.projectdiscovery.io/a-deep-dive-on-katana-field-extraction/
+    #### A Deep Dive on Katana
+    https://blog.projectdiscovery.io/a-deep-dive-on-katana-field-extraction/
 
-  #### Introducing Katana
-  https://blog.projectdiscovery.io/introducing-katana-the-best-cli-web-crawler/
+    #### Introducing Katana
+    https://blog.projectdiscovery.io/introducing-katana-the-best-cli-web-crawler/
 
-### Subfinder
-https://github.com/projectdiscovery/subfinder​
+  ### Subfinder
+  https://github.com/projectdiscovery/subfinder​
 
   #### Subdomain enumeration tool
   https://blog.blacklanternsecurity.com/p/subdomain-enumeration-tool-face-off
